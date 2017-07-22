@@ -1,0 +1,18 @@
+package testing.sandbox;
+
+import javax.swing.Spring;
+
+public class TestActivity {
+	
+	public int aggregator(int a, int b)
+	{
+		return a+b;
+	}
+	
+	public String concat(String x, String y)
+	{
+		
+		return x+y;
+	}
+	
+}
